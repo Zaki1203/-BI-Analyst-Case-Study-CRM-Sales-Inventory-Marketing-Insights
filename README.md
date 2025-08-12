@@ -1,7 +1,4 @@
-# BI-Analyst-Case-Study-CRM-Sales-Inventory-Marketing-Insights
-
-## 🧠 Project Overview
-This Business Intelligence Analyst case study is focused on turning raw CRM, sales, inventory, and marketing data into actionable insights using Power BI. The goal was to uncover trends, identify opportunities, and provide clear recommendations for business improvement through data visualization and analysis.
+# Enterprise BI Dashboard: Sales, CRM & Marketing 
 
 ## 🎯 Project Objectives
 
