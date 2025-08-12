@@ -42,20 +42,6 @@ Visualize the impact of each channel (e.g., Online, Retail, Wholesale) on conver
 Track sales performance against quarterly and annual targets by region.
 Highlight regions performing above or below target expectationAnalyze complex datasets to extract meaningful business insights
 
-Build an interactive and visually compelling Power BI dashboard
-
-Communicate findings clearly through cross-functional analysis
-
-Provide actionable recommendations for:
-
-Sales optimization
-
-Customer engagement
-
-Inventory efficiency
-
-Marketing performance
-
 
 ## 📊 Analysis Summary
 
