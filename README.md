@@ -5,7 +5,6 @@ This Business Intelligence Analyst case study is focused on turning raw CRM, sal
 
 ## 🎯 Project Objectives
 
-This assignment evaluates the candidate’s ability to:
 
 Analyze complex datasets to extract meaningful insights.
 Build an interactive and visually compelling dashboard using Power BI.
