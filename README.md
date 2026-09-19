@@ -11,7 +11,7 @@ Communicate findings effectively and suggest actionable recommendations.
 
 Project conatains multiple datasets  information from CRM, sales, inventory, and marketing channels. My task is to analyze this data and create an insightful Power BI dashboard that addresses the following areas:
 
-[![Dashboard](https://github.com/zaki123/Procurement-Spend-Analytics/blob/main/images/dashboard.png)](https://github.com/zaki123/Procurement-Spend-Analytics/blob/main/docs/Procurement-Report.pdf)
+[View Full PDF] (https://github.com/zaki123/Procurement-Spend-Analytics/blob/main/images/dashboard.png)](https://github.com/zaki123/Procurement-Spend-Analytics/blob/main/docs/Procurement-Report.pdf)
 
 
 1. Sales Performance Analysis
