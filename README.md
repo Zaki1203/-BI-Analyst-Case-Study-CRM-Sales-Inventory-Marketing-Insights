@@ -13,8 +13,6 @@ Project conatains multiple datasets  information from CRM, sales, inventory, and
 
 [View Project Report (PDF)](https://github.com/Zaki1203/-BI-Analyst-Case-Study-CRM-Sales-Inventory-Marketing-Insights/blob/9cde6092df2dbecb126ca6c510e3f09d2ff90cfd/Purple%20and%20Cream%20Illustrated%20Technology%20Sales%20Presentation.pdf)
 
-📄 [View Full Project Report (PDF)](https://github.com/Zaki1203/-BI-Analyst-Case-Study-CRM-Sales-Inventory-Marketing-Insights/blob/9cde6092df2dbecb126ca6c510e3f09d2ff90cfd/Purple%20and%20Cream%20Illustrated%20Technology%20Sales%20Presentation.pdf)
-
 1. Sales Performance Analysis
 
 Identify trends in sales over time and across different channels and regions.
